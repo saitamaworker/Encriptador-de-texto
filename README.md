@@ -23,18 +23,26 @@ El encriptador sigue las siguientes reglas de sustitución:
 
 :small_orange_diamond:Reemplaza “u” por “ufat”.
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
 :point_right: Stack.
 
 :small_orange_diamond:JavaScript.
 :small_orange_diamond:HTML.
 :small_orange_diamond:CSS.
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
 :point_right: Manual de instalación y uso.
 
 :small_orange_diamond:Clona este repositorio en tu máquina local.
+
 :small_orange_diamond:Abre el archivo index.html en tu navegador web.
+
 :small_orange_diamond:Ingresa el texto que deseas encriptar o desencriptar.
+
 :small_orange_diamond:Haz clic en los botones correspondientes para realizar la acción deseada.
+
 :small_orange_diamond:El resultado se mostrará en la tarjeta de salida.
 
 
