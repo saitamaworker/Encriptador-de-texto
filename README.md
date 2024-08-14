@@ -1,6 +1,6 @@
 ## Challenge Encriptador de texto 
 
-(https://drive.google.com/file/d/1pIKDY9SWxm4YlTLCkbD1YfxkUYtjDoR6/view?usp=drive_link)
+1[image](https://drive.google.com/file/d/1pIKDY9SWxm4YlTLCkbD1YfxkUYtjDoR6/view?usp=drive_link)
 
 ### Oracle next education - Alura Latam
 
@@ -33,5 +33,5 @@ El encriptador sigue las siguientes reglas de sustitución:
 :small_orange_diamond:Haz clic en los botones correspondientes para realizar la acción deseada.
 :small_orange_diamond:El resultado se mostrará en la tarjeta de salida.
 
-![footer encriptador]([https://drive.google.com/file/d/1lHXlIoA25d1uuAfj-bnMyiky4_XE-z84/view?usp=sharing)
+![image]([https://drive.google.com/file/d/1lHXlIoA25d1uuAfj-bnMyiky4_XE-z84/view?usp=sharing)
 
