@@ -1,6 +1,6 @@
 ## Challenge Encriptador de texto 
 
-1[image](https://drive.google.com/file/d/1pIKDY9SWxm4YlTLCkbD1YfxkUYtjDoR6/view?usp=drive_link)
+![encriptador de pantalla alura](https://github.com/user-attachments/assets/b30872fb-39a7-48e2-8a4e-c38869ced3a3)
 
 ### Oracle next education - Alura Latam
 
@@ -14,9 +14,13 @@ Este proyecto es un encriptador de texto simple que permite transformar palabras
 El encriptador sigue las siguientes reglas de sustitución:
 
 :small_orange_diamond:Reemplaza “e” por “enter”.
+
 :small_orange_diamond:Reemplaza “i” por “imes”.
+
 :small_orange_diamond:Reemplaza “a” por “ai”.
+
 :small_orange_diamond:Reemplaza “o” por “ober”.
+
 :small_orange_diamond:Reemplaza “u” por “ufat”.
 
 :point_right: Stack.
@@ -33,5 +37,6 @@ El encriptador sigue las siguientes reglas de sustitución:
 :small_orange_diamond:Haz clic en los botones correspondientes para realizar la acción deseada.
 :small_orange_diamond:El resultado se mostrará en la tarjeta de salida.
 
-![image]([https://drive.google.com/file/d/1lHXlIoA25d1uuAfj-bnMyiky4_XE-z84/view?usp=sharing)
 
+
+![footer encriptador](https://github.com/user-attachments/assets/5babf13a-1404-48be-9d64-dcfd83c52c8f)
