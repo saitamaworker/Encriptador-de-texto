@@ -1,6 +1,6 @@
 ## Challenge Encriptador de texto 
 
-![encriptador](https://drive.google.com/file/d/1pIKDY9SWxm4YlTLCkbD1YfxkUYtjDoR6/view?usp=drive_link)
+![link](https://drive.google.com/file/d/1pIKDY9SWxm4YlTLCkbD1YfxkUYtjDoR6/view?usp=drive_link)
 
 ### Oracle next education - Alura Latam
 
